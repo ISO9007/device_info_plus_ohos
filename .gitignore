@@ -34,3 +34,7 @@ oh_modules
 local.properties
 .metadata
 oh-package-lock.json5
+
+# FVM Version Cache
+.fvm/
+.fvmrc

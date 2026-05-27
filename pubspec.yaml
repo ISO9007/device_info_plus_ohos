@@ -10,15 +10,15 @@ topics:
   - openharmony
 
 environment:
-  sdk: '>=2.19.6 <3.0.0'
+  sdk: ^3.6.0
   flutter: ">=3.7.0"
 
 dependencies:
   flutter:
     sdk: flutter
   device_info_plus_platform_interface: ^7.0.0
-  flutter_lints: ^2.0.0
-    
+
+
 dev_dependencies:
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
